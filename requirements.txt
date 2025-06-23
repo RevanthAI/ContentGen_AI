@@ -1,0 +1,4 @@
+google-adk
+google-genai
+vertexai
+gradio==5.34.2

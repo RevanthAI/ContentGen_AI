@@ -1,0 +1,4 @@
+.env
+venv/
+content_generation_agent/__pycache__
+content_generation_agent/agents/__pycache__
