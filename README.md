@@ -171,7 +171,7 @@ For local execution, create a `.env` file with the following keys:
     GOOGLE_CLOUD_PROJECT=PROJECT_ID
     GOOGLE_CLOUD_LOCATION=LOCATION
     GEMINI_API_KEY=GEMINI_KEY # Only needed if you want to use models outside Vertex AI
-
+```
 
 ### Cloud Deployment (Google Cloud Run)
 The application is pre-configured for easy deployment to Google Cloud Run.
